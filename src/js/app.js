@@ -4,7 +4,8 @@
 
 import 'bootstrap';
 import '../sass/main.scss';
-import './mail/contact_me';
+// import './mail/contact_me';
+import './mail/contact';
 import './mail/jqBootstrapValidation';
 
 (function ($) {
